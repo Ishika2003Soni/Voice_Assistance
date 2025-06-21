@@ -1,4 +1,4 @@
-🎤 Streamlit Voice Assistant
+  🎤 Streamlit Voice Assistant
 A powerful and interactive voice assistant built using Python, Streamlit, and SpeechRecognition, capable of understanding voice/text commands and performing actions like opening apps/websites, fetching weather, controlling volume, answering questions using Wikipedia, and basic math operations.
 
 🔥 Features
